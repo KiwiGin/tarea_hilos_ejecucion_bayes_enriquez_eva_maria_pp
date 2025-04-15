@@ -56,10 +56,12 @@ Se solicitarán dos entradas:
 ```
 .
 ├── main.cpp                        
-├── PrimoChecker.h / .cpp
-├── BusquedaPrimosSecuencial.h / .cpp
-├── BusquedaPrimosParalela.h / .cpp
-├── Makefile (opcional)
+├── PrimoChecker.h
+├── PrimoChecker.cpp
+├── BusquedaPrimosSecuencial.h
+├── BusquedaPrimosSecuencial.cpp
+├── BusquedaPrimosParalela.h
+├── BusquedaPrimosParalela.cpp
 ├── README.md
 ```
 
