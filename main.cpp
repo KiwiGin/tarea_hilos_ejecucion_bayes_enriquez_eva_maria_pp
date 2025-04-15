@@ -8,7 +8,7 @@ void mostrarResultados(const std::string& metodo, const std::vector<int>& primos
     std::cout << "\n[" << metodo << "] Primos encontrados: ";
     for (int p : primos)
         std::cout << p << " ";
-    //std::cout << "\n[" << metodo << "] Se encontraron " << primos.size() << " primos.\n";
+    // std::cout << "\n[" << metodo << "] Se encontraron " << primos.size() << " primos.\n";
     std::cout << "\nTiempo de ejecucion: " << duracion.count() << " ms\n";
 }
 
